@@ -1,0 +1,15 @@
+# Generated on 2026-11-15   
+# Language detection rules
+# Configuration for git attributes
+dist/* linguist-vendored
+
+Cargo.lock linguist-generated
+public/* linguist-vendored
+*.woff2 binary
+
+* text=auto eol=lf
+*.tsx linguist-detectable
+*.yml linguist-detectable=false
+
+* text=auto
+*.ico binary
