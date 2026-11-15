@@ -1,0 +1,9 @@
+.env
+*.log
+.DS_Store
+yarn-error.log*
+node_modules/
+.pnpm-store/
+build/
+dist/
+*.tgz
